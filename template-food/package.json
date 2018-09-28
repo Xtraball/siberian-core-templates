@@ -1,0 +1,12 @@
+{
+    "name": "TemplateFood",
+    "version": "4.15.0",
+    "description": "Food template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.0"
+        }
+    },
+    "type": "template"
+}

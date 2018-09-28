@@ -1,0 +1,12 @@
+{
+    "name": "TemplateRealEstateOne",
+    "version": "4.15.0",
+    "description": "Real Estate One template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.0"
+        }
+    },
+    "type": "template"
+}

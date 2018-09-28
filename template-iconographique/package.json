@@ -1,0 +1,12 @@
+{
+    "name": "TemplateIconographique",
+    "version": "4.15.0",
+    "description": "Iconic template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.0"
+        }
+    },
+    "type": "template"
+}

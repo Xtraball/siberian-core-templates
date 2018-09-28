@@ -1,0 +1,12 @@
+{
+    "name": "TemplateFlorist",
+    "version": "4.15.0",
+    "description": "Florist template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.0"
+        }
+    },
+    "type": "template"
+}
