@@ -1,0 +1,12 @@
+{
+    "name": "TemplateRushCafe",
+    "version": "4.15.0",
+    "description": "Rush Cafe template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+			"version": "4.15.0-beta.1"
+        }
+    },
+    "type": "template"
+}

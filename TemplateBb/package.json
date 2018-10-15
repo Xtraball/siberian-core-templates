@@ -1,0 +1,12 @@
+{
+    "name": "TemplateBb",
+    "version": "4.15.0",
+    "description": "B&B template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+			"version": "4.15.0-beta.1"
+        }
+    },
+    "type": "template"
+}

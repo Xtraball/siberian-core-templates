@@ -1,0 +1,12 @@
+{
+    "name": "TemplateNyc",
+    "version": "4.15.0",
+    "description": "NYC template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+			"version": "4.15.0-beta.1"
+        }
+    },
+    "type": "template"
+}

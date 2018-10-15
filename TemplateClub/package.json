@@ -1,0 +1,12 @@
+{
+    "name": "TemplateClub",
+    "version": "4.15.0",
+    "description": "Club template installer.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+			"version": "4.15.0-beta.1"
+        }
+    },
+    "type": "template"
+}
